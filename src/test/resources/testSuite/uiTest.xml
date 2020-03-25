@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite preserve-order="true" name="Suite" parallel="tests">
+
+
+    <test name="Add Data Asset end to end test">
+        <parameter name="browser" value="chrome"/>
+        <parameter name="environment" value="standard"></parameter>
+
+        <classes>
+            <class name="purchase.TshirtPurchase">
+                <methods>
+                    <include name="verifySuccessfullLogin"></include>
+                    <include name="verifyEndToEndPurchaseTshirtProcess"></include>
+
+                </methods>
+            </class>
+        </classes>
+    </test>
+
+</suite>
