@@ -170,3 +170,71 @@
 2020-03-25 19:54:54 INFO  TShirtPurchaseController:115 - Finish button click
 2020-03-25 19:54:55 INFO  TShirtPurchaseController:117 - Item purchase completed and completed message:  THANK YOU FOR YOUR ORDER
 2020-03-25 19:54:55 INFO  TshirtPurchase:29 - ######verifyEndToEndPurchaseTshirtProcess Test completed#####
+2020-03-25 19:58:50 INFO  TshirtPurchase:15 - ######verifySuccessfullLogin Test started#####
+2020-03-25 19:58:50 INFO  TShirtPurchaseController:60 - User name box cleared: [[ChromeDriver: chrome on MAC (afef1db44d898c5976671f6fbcbcf6a4)] -> id: user-name]
+2020-03-25 19:58:50 INFO  TShirtPurchaseController:62 - User name input properly: standard_user
+2020-03-25 19:58:51 INFO  TShirtPurchaseController:64 - Password box cleared: [[ChromeDriver: chrome on MAC (afef1db44d898c5976671f6fbcbcf6a4)] -> id: password]
+2020-03-25 19:58:51 INFO  TShirtPurchaseController:66 - Password input properly: secret_sauce
+2020-03-25 19:59:01 INFO  TShirtPurchaseController:68 - login button clicked : Proxy element for: DefaultElementLocator 'By.xpath: //input[@value='LOGIN']'
+2020-03-25 19:59:01 INFO  TShirtPurchaseController:70 - Login properly and verified
+2020-03-25 19:59:01 INFO  TshirtPurchase:18 - ######verifySuccessfullLogin Test completed#####
+2020-03-25 19:59:01 INFO  TshirtPurchase:24 - ######verifyEndToEndPurchaseTshirtProcess Test started#####
+2020-03-25 19:59:02 INFO  TShirtPurchaseController:77 - Item selected: Sauce Labs Bolt T-Shirt
+2020-03-25 19:59:02 INFO  TShirtPurchaseController:80 - Add cart button clicked
+2020-03-25 19:59:02 INFO  TShirtPurchaseController:82 - Back button clicked
+2020-03-25 19:59:02 INFO  TShirtPurchaseController:84 - Cart logo button clicked
+2020-03-25 19:59:02 INFO  TShirtPurchaseController:87 - verified product in cart: Sauce Labs Bolt T-Shirt
+2020-03-25 19:59:02 INFO  TShirtPurchaseController:89 - Continue button click
+2020-03-25 19:59:02 INFO  TShirtPurchaseController:77 - Item selected: Test.allTheThings() T-Shirt (Red)
+2020-03-25 19:59:03 INFO  TShirtPurchaseController:80 - Add cart button clicked
+2020-03-25 19:59:03 INFO  TShirtPurchaseController:82 - Back button clicked
+2020-03-25 19:59:03 INFO  TShirtPurchaseController:84 - Cart logo button clicked
+2020-03-25 19:59:03 INFO  TShirtPurchaseController:87 - verified product in cart: Test.allTheThings() T-Shirt (Red)
+2020-03-25 19:59:03 INFO  TShirtPurchaseController:89 - Continue button click
+2020-03-25 19:59:03 INFO  TShirtPurchaseController:95 - cart logo click 
+2020-03-25 19:59:04 INFO  TShirtPurchaseController:97 - Checkout tab click 
+2020-03-25 19:59:04 INFO  TShirtPurchaseController:99 - First name input box clear
+2020-03-25 19:59:04 INFO  TShirtPurchaseController:101 - First name input properly: Dilruba
+2020-03-25 19:59:04 INFO  TShirtPurchaseController:103 - Last name input box clear
+2020-03-25 19:59:04 INFO  TShirtPurchaseController:105 - Last name input properly: Jahan
+2020-03-25 19:59:04 INFO  TShirtPurchaseController:107 - zip code input box clear
+2020-03-25 19:59:04 INFO  TShirtPurchaseController:109 - Zip code input properly: 10003
+2020-03-25 19:59:04 INFO  TShirtPurchaseController:111 - Continue button click
+2020-03-25 19:59:04 INFO  TShirtPurchaseController:113 - verified product in cart: Sauce Labs Bolt T-Shirt
+2020-03-25 19:59:05 INFO  TShirtPurchaseController:115 - Finish button click
+2020-03-25 19:59:05 INFO  TShirtPurchaseController:117 - Item purchase completed and completed message:  THANK YOU FOR YOUR ORDER
+2020-03-25 19:59:05 INFO  TshirtPurchase:29 - ######verifyEndToEndPurchaseTshirtProcess Test completed#####
+2020-03-26 12:14:13 INFO  TshirtPurchase:15 - ######verifySuccessfullLogin Test started#####
+2020-03-26 12:14:13 INFO  TShirtPurchaseController:60 - User name box cleared: [[ChromeDriver: chrome on MAC (fa128f05147cbd5e8cc243a98259111a)] -> id: user-name]
+2020-03-26 12:14:14 INFO  TShirtPurchaseController:62 - User name input properly: standard_user
+2020-03-26 12:14:14 INFO  TShirtPurchaseController:64 - Password box cleared: [[ChromeDriver: chrome on MAC (fa128f05147cbd5e8cc243a98259111a)] -> id: password]
+2020-03-26 12:14:14 INFO  TShirtPurchaseController:66 - Password input properly: secret_sauce
+2020-03-26 12:14:25 INFO  TShirtPurchaseController:68 - login button clicked : Proxy element for: DefaultElementLocator 'By.xpath: //input[@value='LOGIN']'
+2020-03-26 12:14:25 INFO  TShirtPurchaseController:70 - Login properly and verified
+2020-03-26 12:14:25 INFO  TshirtPurchase:18 - ######verifySuccessfullLogin Test completed#####
+2020-03-26 12:14:25 INFO  TshirtPurchase:24 - ######verifyEndToEndPurchaseTshirtProcess Test started#####
+2020-03-26 12:14:25 INFO  TShirtPurchaseController:77 - Item selected: Sauce Labs Bolt T-Shirt
+2020-03-26 12:14:25 INFO  TShirtPurchaseController:80 - Add cart button clicked
+2020-03-26 12:14:25 INFO  TShirtPurchaseController:82 - Back button clicked
+2020-03-26 12:14:26 INFO  TShirtPurchaseController:84 - Cart logo button clicked
+2020-03-26 12:14:26 INFO  TShirtPurchaseController:87 - verified product in cart: Sauce Labs Bolt T-Shirt
+2020-03-26 12:14:26 INFO  TShirtPurchaseController:89 - Continue button click
+2020-03-26 12:14:26 INFO  TShirtPurchaseController:77 - Item selected: Test.allTheThings() T-Shirt (Red)
+2020-03-26 12:14:26 INFO  TShirtPurchaseController:80 - Add cart button clicked
+2020-03-26 12:14:26 INFO  TShirtPurchaseController:82 - Back button clicked
+2020-03-26 12:14:27 INFO  TShirtPurchaseController:84 - Cart logo button clicked
+2020-03-26 12:14:27 INFO  TShirtPurchaseController:87 - verified product in cart: Test.allTheThings() T-Shirt (Red)
+2020-03-26 12:14:27 INFO  TShirtPurchaseController:89 - Continue button click
+2020-03-26 12:14:27 INFO  TShirtPurchaseController:95 - cart logo click 
+2020-03-26 12:14:27 INFO  TShirtPurchaseController:97 - Checkout tab click 
+2020-03-26 12:14:27 INFO  TShirtPurchaseController:99 - First name input box clear
+2020-03-26 12:14:28 INFO  TShirtPurchaseController:101 - First name input properly: Dilruba
+2020-03-26 12:14:28 INFO  TShirtPurchaseController:103 - Last name input box clear
+2020-03-26 12:14:28 INFO  TShirtPurchaseController:105 - Last name input properly: Jahan
+2020-03-26 12:14:28 INFO  TShirtPurchaseController:107 - zip code input box clear
+2020-03-26 12:14:28 INFO  TShirtPurchaseController:109 - Zip code input properly: 10003
+2020-03-26 12:14:28 INFO  TShirtPurchaseController:111 - Continue button click
+2020-03-26 12:14:28 INFO  TShirtPurchaseController:113 - verified product in cart: Sauce Labs Bolt T-Shirt
+2020-03-26 12:14:29 INFO  TShirtPurchaseController:115 - Finish button click
+2020-03-26 12:14:29 INFO  TShirtPurchaseController:117 - Item purchase completed and completed message:  THANK YOU FOR YOUR ORDER
+2020-03-26 12:14:29 INFO  TshirtPurchase:29 - ######verifyEndToEndPurchaseTshirtProcess Test completed#####
